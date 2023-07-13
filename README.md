@@ -2,6 +2,9 @@
 
 MaskUp is an advanced Python program designed to accurately detect whether a person is wearing a mask from an available web camera. It also leverages the power of machine learning techniques and a meticulously curated dataset to train a robust model capable of making reliable predictions.
 
+| With Mask                    | Without Mask                |
+| ![With Mask](assets/with-mask-screenshot.png) | ![Without Mask](assets/without-mask-screenshot.png) |
+
 ## Key Features
 
 - **Precise Mask Detection**: MaskUp analyzes the web camera and determines with high accuracy whether the person is wearing a mask or not.
